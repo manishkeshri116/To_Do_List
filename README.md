@@ -31,15 +31,9 @@ This is a simple Todo List application built using React. It allows users to cre
    ```bash
    git clone https://github.com/manishkeshri116/To_Do_List
 Install Dependencies:
-
-bash
-Copy code
 cd my-todo-app
 npm install
 Run the Application:
-
-bash
-Copy code
 npm start
 The application will run on http://localhost:3000.
 
@@ -50,14 +44,4 @@ Additional Features: Include task prioritization and categorization.
 Styling and Alignment
 The application uses modern styling techniques to ensure a responsive and visually appealing UI. The layout adjusts seamlessly across various devices.
 
-For more information, please get in touch with Your Name.
-
-markdown
-Copy code
-
-### 5. **Final Steps**
-
-- **Review Your Work**: Review your code and README before submission to ensure clarity and completeness.
-- **Submission**: Share the Git repository URL with the relevant party or platform for submission.
-
-This guide covers the essential elements for preparing and submitting your project. Ensure your code is clean, and well-documented, and that the README provides a clear understanding of the project's purpose and usage.
+For more information, please get in touch with Manish Keshri.
